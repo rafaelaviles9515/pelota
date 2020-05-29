@@ -1,0 +1,1 @@
+web : gunicorn pelota.wsgi --log-file -
